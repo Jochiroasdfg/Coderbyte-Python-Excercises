@@ -1,2 +1,2 @@
-# Coderbyte_Python_Excercises-
-Some coding I had to do
+# Coderbyte_Python_Excercises
+Some excercises from Coderbyte.
